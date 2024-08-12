@@ -7,7 +7,6 @@
   --clr-slate-300: hsl(212, 45%, 89%);
   --clr-slate-500: hsl(216, 15%, 48%);
   --clr-slate-900: hsl(218, 44%, 22%);
-  --clr-red-400: hsl(9, 100%, 64%);
 
   --fs-350: 0.9375rem; /* 15px */
   --fs-700: 1.375rem; /* 22px */
@@ -100,8 +99,7 @@ body{
 }
 
 .qr__title{
-  /* color: var(--clr-slate-900); */
-  color: var(--clr-red-400);
+  color: var(--clr-slate-900);
 }
 
 .qr__text{
