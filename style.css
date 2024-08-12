@@ -74,7 +74,7 @@ body{
   --b-radius: 1.5rem;
   --padding: 1rem;
 
-  width: min(90%, 320px);
+  width: min(90%, 20rem);
   padding: var(--padding);
   border-radius: var(--b-radius);
   background: var(--clr-white);
